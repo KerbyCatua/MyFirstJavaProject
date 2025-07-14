@@ -1,0 +1,12 @@
+# Ignore class files
+*.class
+
+# Ignore IDE/project folders
+bin/
+.vscode/
+*.iml
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
